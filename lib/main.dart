@@ -29,7 +29,7 @@ class _MyAppState extends State<MyApp> {
           height: 150,
           width: 150,
           color: Colors.green,
-          
+          child: Text('hello everyone'),
         ) ,
       ),
     );
