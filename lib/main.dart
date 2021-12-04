@@ -26,6 +26,7 @@ class _MyAppState extends State<MyApp> {
       ),
       body: Center(
         child:Container(
+          alignment: AlignmentDirectional.center,
           height: 150,
           width: 150,
           color: Colors.green,
